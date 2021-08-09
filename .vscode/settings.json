@@ -11,6 +11,8 @@
         "xtree": "cpp",
         "xutility": "cpp",
         "iostream": "cpp",
-        "hash_map": "cpp"
+        "hash_map": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp"
     }
 }
